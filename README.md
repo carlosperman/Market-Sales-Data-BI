@@ -9,7 +9,7 @@ Realizar un proceso **ETL (Extracción, Transformación y Carga)** sobre datos d
 
 - 📥 Carga del archivo CSV original.
 - 🧹 Análisis de la calidad de los datos.
-- 🆕 Creación de nuevas columnas
+- 🆕 Creación de nuevas columnas.
 - 📊 Cálculo de indicadores de negocio (ventas por horario, productos con mayores ventas mensuales, productos con mayor beneficio neto toal, etc.).
 
 ## Herramientas utilizadas
